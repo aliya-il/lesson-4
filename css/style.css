@@ -1,0 +1,24 @@
+.content{
+    max-width: 400px;
+}
+.content, .border-green {
+    border: 1px solid green;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+.blue {
+    color: blue;
+}
+.tel-number {
+    color: red;
+    border: 1px solid red;
+}
+.border-green {
+    color:green;
+    width: 200px;
+    height: 50px;
+}
